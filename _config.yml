@@ -21,9 +21,7 @@
 title: Are you encrypting?
 email: salaaks@protonmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  I'm a software engineer with over 10+ years of experience.
-  In this personal software development blog I will cover myriad of topics I have encountered
-  on my career.
+  I'm a software engineer with over 15 years of experience.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  salaaks
